@@ -1,0 +1,299 @@
+2019-03-16 14:51:36,217  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 14:51:36,234  INFO [main] LoginPage:37 - Login page title is verified
+2019-03-16 14:51:36,234  INFO [main] LoginPage:50 - Enter the username
+2019-03-16 14:51:36,422  INFO [main] LoginPage:52 - Entered the username
+2019-03-16 14:51:36,423  INFO [main] LoginPage:57 - Username continue button is clicking
+2019-03-16 14:51:36,523  INFO [main] LoginPage:59 - Username continue button is clicked
+2019-03-16 14:51:36,524  INFO [main] LoginPage:64 - Enter the password
+2019-03-16 14:51:37,184  INFO [main] LoginPage:66 - Entered the password
+2019-03-16 14:51:37,185  INFO [main] LoginPage:71 - Login button is clicking
+2019-03-16 14:51:37,263  INFO [main] LoginPage:73 - Login button is clicked
+2019-03-16 14:51:37,263  INFO [main] LoginPage:42 - Reader page title is verifying
+2019-03-16 14:51:38,446  INFO [main] LoginPage:45 - Reader page title is verifying
+2019-03-16 14:53:35,948  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 14:53:35,968  INFO [main] LoginPage:37 - Login page title is verified
+2019-03-16 14:53:35,969  INFO [main] LoginPage:50 - Enter the username
+2019-03-16 14:53:36,143  INFO [main] LoginPage:52 - Entered the username
+2019-03-16 14:53:36,144  INFO [main] LoginPage:57 - Username continue button is clicking
+2019-03-16 14:53:36,227  INFO [main] LoginPage:59 - Username continue button is clicked
+2019-03-16 14:53:36,227  INFO [main] LoginPage:64 - Enter the password
+2019-03-16 14:53:36,878  INFO [main] LoginPage:66 - Entered the password
+2019-03-16 14:53:36,879  INFO [main] LoginPage:71 - Login button is clicking
+2019-03-16 14:53:36,953  INFO [main] LoginPage:73 - Login button is clicked
+2019-03-16 14:53:36,953  INFO [main] LoginPage:42 - Reader page title is verifying
+2019-03-16 14:53:38,321  INFO [main] LoginPage:45 - Reader page title is verifying
+2019-03-16 15:34:13,274  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 15:34:13,295  INFO [main] LoginPage:37 - Login page title is verified
+2019-03-16 15:34:13,296  INFO [main] LoginPage:50 - Enter the username
+2019-03-16 15:34:13,483  INFO [main] LoginPage:52 - Entered the username
+2019-03-16 15:34:13,483  INFO [main] LoginPage:57 - Username continue button is clicking
+2019-03-16 15:34:13,577  INFO [main] LoginPage:59 - Username continue button is clicked
+2019-03-16 15:34:13,578  INFO [main] LoginPage:64 - Enter the password
+2019-03-16 15:34:14,234  INFO [main] LoginPage:66 - Entered the password
+2019-03-16 15:34:14,235  INFO [main] LoginPage:71 - Login button is clicking
+2019-03-16 15:34:14,311  INFO [main] LoginPage:73 - Login button is clicked
+2019-03-16 15:34:14,312  INFO [main] LoginPage:42 - Reader page title is verifying
+2019-03-16 15:34:16,115  INFO [main] LoginPage:45 - Reader page title is verifying
+2019-03-16 15:43:15,377  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 15:43:15,395  INFO [main] LoginPage:37 - Login page title is verified
+2019-03-16 15:43:15,395  INFO [main] LoginPage:50 - Enter the username
+2019-03-16 15:43:15,593  INFO [main] LoginPage:52 - Entered the username
+2019-03-16 15:43:15,593  INFO [main] LoginPage:57 - Username continue button is clicking
+2019-03-16 15:43:15,695  INFO [main] LoginPage:59 - Username continue button is clicked
+2019-03-16 15:43:15,696  INFO [main] LoginPage:64 - Enter the password
+2019-03-16 15:43:16,352  INFO [main] LoginPage:66 - Entered the password
+2019-03-16 15:43:16,353  INFO [main] LoginPage:71 - Login button is clicking
+2019-03-16 15:43:16,432  INFO [main] LoginPage:73 - Login button is clicked
+2019-03-16 15:43:16,433  INFO [main] LoginPage:42 - Reader page title is verifying
+2019-03-16 15:43:17,801  INFO [main] LoginPage:45 - Reader page title is verifying
+2019-03-16 15:44:43,134  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 15:44:43,154  INFO [main] LoginPage:37 - Login page title is verified
+2019-03-16 15:44:43,155  INFO [main] LoginPage:50 - Enter the username
+2019-03-16 15:44:43,341  INFO [main] LoginPage:52 - Entered the username
+2019-03-16 15:44:43,342  INFO [main] LoginPage:57 - Username continue button is clicking
+2019-03-16 15:44:43,430  INFO [main] LoginPage:59 - Username continue button is clicked
+2019-03-16 15:44:43,430  INFO [main] LoginPage:64 - Enter the password
+2019-03-16 15:44:44,085  INFO [main] LoginPage:66 - Entered the password
+2019-03-16 15:44:44,086  INFO [main] LoginPage:71 - Login button is clicking
+2019-03-16 15:44:44,159  INFO [main] LoginPage:73 - Login button is clicked
+2019-03-16 15:44:44,160  INFO [main] LoginPage:42 - Reader page title is verifying
+2019-03-16 15:44:45,531  INFO [main] LoginPage:45 - Reader page title is verifying
+2019-03-16 15:46:56,616  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 15:46:56,637  INFO [main] LoginPage:37 - Login page title is verified
+2019-03-16 15:46:56,638  INFO [main] LoginPage:50 - Enter the username
+2019-03-16 15:46:56,824  INFO [main] LoginPage:52 - Entered the username
+2019-03-16 15:46:56,825  INFO [main] LoginPage:57 - Username continue button is clicking
+2019-03-16 15:46:56,918  INFO [main] LoginPage:59 - Username continue button is clicked
+2019-03-16 15:46:56,918  INFO [main] LoginPage:64 - Enter the password
+2019-03-16 15:46:57,572  INFO [main] LoginPage:66 - Entered the password
+2019-03-16 15:46:57,573  INFO [main] LoginPage:71 - Login button is clicking
+2019-03-16 15:46:57,655  INFO [main] LoginPage:73 - Login button is clicked
+2019-03-16 15:46:57,656  INFO [main] LoginPage:42 - Reader page title is verifying
+2019-03-16 15:46:59,175  INFO [main] LoginPage:45 - Reader page title is verifying
+2019-03-16 16:01:12,206  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 16:01:12,225  INFO [main] LoginPage:37 - Login page title is verified
+2019-03-16 16:01:12,225  INFO [main] LoginPage:50 - Enter the username
+2019-03-16 16:01:12,424  INFO [main] LoginPage:52 - Entered the username
+2019-03-16 16:01:12,424  INFO [main] LoginPage:57 - Username continue button is clicking
+2019-03-16 16:01:12,526  INFO [main] LoginPage:59 - Username continue button is clicked
+2019-03-16 16:01:12,526  INFO [main] LoginPage:64 - Enter the password
+2019-03-16 16:01:13,182  INFO [main] LoginPage:66 - Entered the password
+2019-03-16 16:01:13,182  INFO [main] LoginPage:71 - Login button is clicking
+2019-03-16 16:01:13,257  INFO [main] LoginPage:73 - Login button is clicked
+2019-03-16 16:01:13,258  INFO [main] LoginPage:42 - Reader page title is verifying
+2019-03-16 16:01:14,496  INFO [main] LoginPage:45 - Reader page title is verifying
+2019-03-16 16:05:00,441  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 16:05:00,464  INFO [main] LoginPage:37 - Login page title is verified
+2019-03-16 16:05:00,464  INFO [main] LoginPage:50 - Enter the username
+2019-03-16 16:05:00,652  INFO [main] LoginPage:52 - Entered the username
+2019-03-16 16:05:00,653  INFO [main] LoginPage:57 - Username continue button is clicking
+2019-03-16 16:05:00,747  INFO [main] LoginPage:59 - Username continue button is clicked
+2019-03-16 16:05:00,747  INFO [main] LoginPage:64 - Enter the password
+2019-03-16 16:05:01,407  INFO [main] LoginPage:66 - Entered the password
+2019-03-16 16:05:01,408  INFO [main] LoginPage:71 - Login button is clicking
+2019-03-16 16:05:01,479  INFO [main] LoginPage:73 - Login button is clicked
+2019-03-16 16:05:01,479  INFO [main] LoginPage:42 - Reader page title is verifying
+2019-03-16 16:05:03,026  INFO [main] LoginPage:45 - Reader page title is verifying
+2019-03-16 16:06:34,288  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 16:06:34,307  INFO [main] LoginPage:37 - Login page title is verified
+2019-03-16 16:06:34,308  INFO [main] LoginPage:50 - Enter the username
+2019-03-16 16:06:34,485  INFO [main] LoginPage:52 - Entered the username
+2019-03-16 16:06:34,485  INFO [main] LoginPage:57 - Username continue button is clicking
+2019-03-16 16:06:34,591  INFO [main] LoginPage:59 - Username continue button is clicked
+2019-03-16 16:06:34,591  INFO [main] LoginPage:64 - Enter the password
+2019-03-16 16:06:35,248  INFO [main] LoginPage:66 - Entered the password
+2019-03-16 16:06:35,249  INFO [main] LoginPage:71 - Login button is clicking
+2019-03-16 16:06:35,329  INFO [main] LoginPage:73 - Login button is clicked
+2019-03-16 16:06:35,330  INFO [main] LoginPage:42 - Reader page title is verifying
+2019-03-16 16:06:36,689  INFO [main] LoginPage:45 - Reader page title is verifying
+2019-03-16 16:09:55,356  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 16:09:55,377  INFO [main] LoginPage:37 - Login page title is verified
+2019-03-16 16:09:55,378  INFO [main] LoginPage:50 - Enter the username
+2019-03-16 16:09:55,561  INFO [main] LoginPage:52 - Entered the username
+2019-03-16 16:09:55,562  INFO [main] LoginPage:57 - Username continue button is clicking
+2019-03-16 16:09:55,658  INFO [main] LoginPage:59 - Username continue button is clicked
+2019-03-16 16:09:55,659  INFO [main] LoginPage:64 - Enter the password
+2019-03-16 16:09:56,313  INFO [main] LoginPage:66 - Entered the password
+2019-03-16 16:09:56,313  INFO [main] LoginPage:71 - Login button is clicking
+2019-03-16 16:09:56,394  INFO [main] LoginPage:73 - Login button is clicked
+2019-03-16 16:09:56,395  INFO [main] LoginPage:42 - Reader page title is verifying
+2019-03-16 16:09:58,084  INFO [main] LoginPage:45 - Reader page title is verifying
+2019-03-16 16:29:55,669  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 16:29:55,689  INFO [main] LoginPage:37 - Login page title is verified
+2019-03-16 16:29:55,690  INFO [main] LoginPage:50 - Enter the username
+2019-03-16 16:29:55,879  INFO [main] LoginPage:52 - Entered the username
+2019-03-16 16:29:55,880  INFO [main] LoginPage:57 - Username continue button is clicking
+2019-03-16 16:29:55,978  INFO [main] LoginPage:59 - Username continue button is clicked
+2019-03-16 16:29:55,979  INFO [main] LoginPage:64 - Enter the password
+2019-03-16 16:29:56,632  INFO [main] LoginPage:66 - Entered the password
+2019-03-16 16:29:56,633  INFO [main] LoginPage:71 - Login button is clicking
+2019-03-16 16:29:56,713  INFO [main] LoginPage:73 - Login button is clicked
+2019-03-16 16:29:56,714  INFO [main] LoginPage:42 - Reader page title is verifying
+2019-03-16 16:29:57,964  INFO [main] LoginPage:45 - Reader page title is verifying
+2019-03-16 16:38:33,929  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 16:38:33,949  INFO [main] LoginPage:37 - Login page title is verified
+2019-03-16 16:38:33,950  INFO [main] LoginPage:50 - Enter the username
+2019-03-16 16:38:34,140  INFO [main] LoginPage:52 - Entered the username
+2019-03-16 16:38:34,140  INFO [main] LoginPage:57 - Username continue button is clicking
+2019-03-16 16:38:34,247  INFO [main] LoginPage:59 - Username continue button is clicked
+2019-03-16 16:38:34,248  INFO [main] LoginPage:64 - Enter the password
+2019-03-16 16:38:34,899  INFO [main] LoginPage:66 - Entered the password
+2019-03-16 16:38:34,900  INFO [main] LoginPage:71 - Login button is clicking
+2019-03-16 16:38:34,977  INFO [main] LoginPage:73 - Login button is clicked
+2019-03-16 16:38:34,978  INFO [main] LoginPage:42 - Reader page title is verifying
+2019-03-16 16:38:36,495  INFO [main] LoginPage:45 - Reader page title is verifying
+2019-03-16 16:47:31,978  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 16:47:31,996  INFO [main] LoginPage:37 - Login page title is verified
+2019-03-16 16:47:31,996  INFO [main] LoginPage:50 - Enter the username
+2019-03-16 16:47:32,190  INFO [main] LoginPage:52 - Entered the username
+2019-03-16 16:47:32,191  INFO [main] LoginPage:57 - Username continue button is clicking
+2019-03-16 16:47:32,293  INFO [main] LoginPage:59 - Username continue button is clicked
+2019-03-16 16:47:32,294  INFO [main] LoginPage:64 - Enter the password
+2019-03-16 16:47:32,944  INFO [main] LoginPage:66 - Entered the password
+2019-03-16 16:47:32,945  INFO [main] LoginPage:71 - Login button is clicking
+2019-03-16 16:47:33,016  INFO [main] LoginPage:73 - Login button is clicked
+2019-03-16 16:47:33,017  INFO [main] LoginPage:42 - Reader page title is verifying
+2019-03-16 16:47:34,513  INFO [main] LoginPage:45 - Reader page title is verifying
+2019-03-16 17:11:37,307  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 17:11:37,325  INFO [main] LoginPage:37 - Login page title is verified
+2019-03-16 17:11:37,325  INFO [main] LoginPage:50 - Enter the username
+2019-03-16 17:11:37,507  INFO [main] LoginPage:52 - Entered the username
+2019-03-16 17:11:37,507  INFO [main] LoginPage:57 - Username continue button is clicking
+2019-03-16 17:11:37,607  INFO [main] LoginPage:59 - Username continue button is clicked
+2019-03-16 17:11:37,607  INFO [main] LoginPage:64 - Enter the password
+2019-03-16 17:11:38,257  INFO [main] LoginPage:66 - Entered the password
+2019-03-16 17:11:38,258  INFO [main] LoginPage:71 - Login button is clicking
+2019-03-16 17:11:38,342  INFO [main] LoginPage:73 - Login button is clicked
+2019-03-16 17:11:38,343  INFO [main] LoginPage:42 - Reader page title is verifying
+2019-03-16 17:11:39,745  INFO [main] LoginPage:45 - Reader page title is verifying
+2019-03-16 17:31:04,320  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 17:31:04,339  INFO [main] LoginPage:37 - Login page title is verified
+2019-03-16 17:31:04,340  INFO [main] LoginPage:50 - Enter the username
+2019-03-16 17:31:04,526  INFO [main] LoginPage:52 - Entered the username
+2019-03-16 17:31:04,527  INFO [main] LoginPage:57 - Username continue button is clicking
+2019-03-16 17:31:04,629  INFO [main] LoginPage:59 - Username continue button is clicked
+2019-03-16 17:31:04,629  INFO [main] LoginPage:64 - Enter the password
+2019-03-16 17:31:05,294  INFO [main] LoginPage:66 - Entered the password
+2019-03-16 17:31:05,295  INFO [main] LoginPage:71 - Login button is clicking
+2019-03-16 17:31:05,378  INFO [main] LoginPage:73 - Login button is clicked
+2019-03-16 17:31:05,379  INFO [main] LoginPage:42 - Reader page title is verifying
+2019-03-16 17:31:06,851  INFO [main] LoginPage:45 - Reader page title is verifying
+2019-03-16 17:31:33,422  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 19:04:04,320  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 19:05:29,292  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 19:05:46,320  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 19:07:53,736  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-16 19:07:53,758  INFO [main] LoginPage:37 - Login page title is verified
+2019-03-16 19:07:53,760  INFO [main] LoginPage:50 - Enter the username
+2019-03-16 19:07:53,951  INFO [main] LoginPage:52 - Entered the username
+2019-03-16 19:07:53,952  INFO [main] LoginPage:57 - Username continue button is clicking
+2019-03-16 19:07:54,046  INFO [main] LoginPage:59 - Username continue button is clicked
+2019-03-16 19:07:54,047  INFO [main] LoginPage:64 - Enter the password
+2019-03-16 19:07:54,709  INFO [main] LoginPage:66 - Entered the password
+2019-03-16 19:07:54,709  INFO [main] LoginPage:71 - Login button is clicking
+2019-03-16 19:07:54,790  INFO [main] LoginPage:73 - Login button is clicked
+2019-03-16 19:07:54,791  INFO [main] LoginPage:42 - Reader page title is verifying
+2019-03-16 19:07:56,246  INFO [main] LoginPage:45 - Reader page title is verifying
+2019-03-16 19:15:28,909  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-16 19:16:28,524  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-16 19:30:18,590  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-16 19:30:34,964  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-16 19:31:04,567  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-16 19:31:04,585  INFO [main] LoginPage:38 - Login page title is verified
+2019-03-16 19:31:04,587  INFO [main] LoginPage:51 - Enter the username
+2019-03-16 19:31:04,788  INFO [main] LoginPage:53 - Entered the username
+2019-03-16 19:31:04,788  INFO [main] LoginPage:58 - Username continue button is clicking
+2019-03-16 19:31:04,884  INFO [main] LoginPage:60 - Username continue button is clicked
+2019-03-16 19:31:04,884  INFO [main] LoginPage:65 - Enter the password
+2019-03-16 19:31:05,540  INFO [main] LoginPage:67 - Entered the password
+2019-03-16 19:31:05,541  INFO [main] LoginPage:72 - Login button is clicking
+2019-03-16 19:31:05,613  INFO [main] LoginPage:74 - Login button is clicked
+2019-03-16 19:31:05,614  INFO [main] LoginPage:43 - Reader page title is verifying
+2019-03-16 19:31:07,304  INFO [main] LoginPage:46 - Reader page title is verifying
+2019-03-16 19:43:59,689  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-16 19:43:59,710  INFO [main] LoginPage:38 - Login page title is verified
+2019-03-16 19:43:59,711  INFO [main] LoginPage:51 - Enter the username
+2019-03-16 19:43:59,904  INFO [main] LoginPage:53 - Entered the username
+2019-03-16 19:43:59,905  INFO [main] LoginPage:58 - Username continue button is clicking
+2019-03-16 19:44:00,002  INFO [main] LoginPage:60 - Username continue button is clicked
+2019-03-16 19:44:00,003  INFO [main] LoginPage:65 - Enter the password
+2019-03-16 19:44:00,653  INFO [main] LoginPage:67 - Entered the password
+2019-03-16 19:44:00,654  INFO [main] LoginPage:72 - Login button is clicking
+2019-03-16 19:44:00,732  INFO [main] LoginPage:74 - Login button is clicked
+2019-03-16 19:44:00,732  INFO [main] LoginPage:43 - Reader page title is verifying
+2019-03-16 19:44:02,096  INFO [main] LoginPage:46 - Reader page title is verifying
+2019-03-16 19:52:16,219  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-16 19:53:36,153  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-16 19:54:26,372  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-16 19:54:39,292  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-16 19:54:39,314  INFO [main] LoginPage:38 - Login page title is verified
+2019-03-16 19:54:39,315  INFO [main] LoginPage:51 - Enter the username
+2019-03-16 19:54:39,508  INFO [main] LoginPage:53 - Entered the username
+2019-03-16 19:54:39,509  INFO [main] LoginPage:58 - Username continue button is clicking
+2019-03-16 19:54:39,614  INFO [main] LoginPage:60 - Username continue button is clicked
+2019-03-16 19:54:39,615  INFO [main] LoginPage:65 - Enter the password
+2019-03-16 19:54:40,264  INFO [main] LoginPage:67 - Entered the password
+2019-03-16 19:54:40,265  INFO [main] LoginPage:72 - Login button is clicking
+2019-03-16 19:54:40,340  INFO [main] LoginPage:74 - Login button is clicked
+2019-03-16 19:54:40,341  INFO [main] LoginPage:43 - Reader page title is verifying
+2019-03-16 19:54:41,814  INFO [main] LoginPage:46 - Reader page title is verifying
+2019-03-18 10:45:13,555  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-18 11:05:27,301  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-18 11:08:44,696  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-18 11:10:04,960  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-18 11:10:04,983  INFO [main] LoginPage:38 - Login page title is verified
+2019-03-18 11:10:04,984  INFO [main] LoginPage:51 - Enter the username
+2019-03-18 11:10:05,163  INFO [main] LoginPage:53 - Entered the username
+2019-03-18 11:10:05,164  INFO [main] LoginPage:58 - Username continue button is clicking
+2019-03-18 11:10:05,256  INFO [main] LoginPage:60 - Username continue button is clicked
+2019-03-18 11:10:05,256  INFO [main] LoginPage:65 - Enter the password
+2019-03-18 11:10:06,440  INFO [main] LoginPage:67 - Entered the password
+2019-03-18 11:10:06,440  INFO [main] LoginPage:72 - Login button is clicking
+2019-03-18 11:10:06,516  INFO [main] LoginPage:74 - Login button is clicked
+2019-03-18 11:10:06,518  INFO [main] LoginPage:43 - Reader page title is verifying
+2019-03-18 11:10:08,283  INFO [main] LoginPage:46 - Reader page title is verifying
+2019-03-18 11:10:35,509  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-18 11:11:54,189  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-18 11:12:50,270  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-18 11:14:11,171  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-18 11:14:50,832  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-18 11:22:05,061  INFO [main] LoginPage:35 - Login page title is verifying
+2019-03-18 11:23:00,958  INFO [main] LoginPage:36 - Login page title is verifying
+2019-03-18 11:29:04,449  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-18 12:37:09,027  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-18 14:29:41,538  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-18 14:29:41,557  INFO [main] LoginPage:37 - Login page title is verified
+2019-03-18 14:29:41,557  INFO [main] LoginPage:50 - Enter the username
+2019-03-18 14:29:41,723  INFO [main] LoginPage:52 - Entered the username
+2019-03-18 14:29:41,723  INFO [main] LoginPage:57 - Username continue button is clicking
+2019-03-18 14:29:41,801  INFO [main] LoginPage:59 - Username continue button is clicked
+2019-03-18 14:29:41,801  INFO [main] LoginPage:64 - Enter the password
+2019-03-18 14:29:42,406  INFO [main] LoginPage:66 - Entered the password
+2019-03-18 14:29:42,407  INFO [main] LoginPage:71 - Login button is clicking
+2019-03-18 14:29:42,462  INFO [main] LoginPage:73 - Login button is clicked
+2019-03-18 14:29:42,463  INFO [main] LoginPage:42 - Reader page title is verifying
+2019-03-18 14:29:44,139  INFO [main] LoginPage:45 - Reader page title is verifying
+2019-03-18 14:37:44,224  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-18 14:37:44,242  INFO [main] LoginPage:37 - Login page title is verified
+2019-03-18 14:37:44,243  INFO [main] LoginPage:50 - Enter the username
+2019-03-18 14:37:44,423  INFO [main] LoginPage:52 - Entered the username
+2019-03-18 14:37:44,424  INFO [main] LoginPage:57 - Username continue button is clicking
+2019-03-18 14:37:44,514  INFO [main] LoginPage:59 - Username continue button is clicked
+2019-03-18 14:37:44,515  INFO [main] LoginPage:64 - Enter the password
+2019-03-18 14:37:45,163  INFO [main] LoginPage:66 - Entered the password
+2019-03-18 14:37:45,164  INFO [main] LoginPage:71 - Login button is clicking
+2019-03-18 14:37:45,232  INFO [main] LoginPage:73 - Login button is clicked
+2019-03-18 14:37:45,233  INFO [main] LoginPage:42 - Reader page title is verifying
+2019-03-18 14:37:46,493  INFO [main] LoginPage:45 - Reader page title is verifying
+2019-03-18 14:44:44,927  INFO [main] LoginPage:34 - Login page title is verifying
+2019-03-18 14:44:44,945  INFO [main] LoginPage:37 - Login page title is verified
+2019-03-18 14:44:44,946  INFO [main] LoginPage:50 - Enter the username
+2019-03-18 14:44:45,119  INFO [main] LoginPage:52 - Entered the username
+2019-03-18 14:44:45,120  INFO [main] LoginPage:57 - Username continue button is clicking
+2019-03-18 14:44:45,214  INFO [main] LoginPage:59 - Username continue button is clicked
+2019-03-18 14:44:45,215  INFO [main] LoginPage:64 - Enter the password
+2019-03-18 14:44:45,869  INFO [main] LoginPage:66 - Entered the password
+2019-03-18 14:44:45,869  INFO [main] LoginPage:71 - Login button is clicking
+2019-03-18 14:44:45,945  INFO [main] LoginPage:73 - Login button is clicked
+2019-03-18 14:44:45,945  INFO [main] LoginPage:42 - Reader page title is verifying
+2019-03-18 14:44:47,432  INFO [main] LoginPage:45 - Reader page title is verifying

@@ -1,0 +1,6 @@
+com/wordpress/pages/BaseClass.class
+com/wordpress/utility/Helper.class
+com/wordpress/runner/TestRunner.class
+com/wordpress/stepdefination/LoginPageSteps.class
+com/wordpress/pages/LoginPage.class
+com/wordpress/runner/Hooks.class
