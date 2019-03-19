@@ -62,12 +62,12 @@
             <version>1.2.17</version>
         </dependency>
         
-        <dependency>
-           <groupId>info.cukes</groupId>
-           <artifactId>cucumber-picocontainer</artifactId>
-           <version>1.2.5</version>
-           <scope>test</scope>
-        </dependency>
+<!--         <dependency> -->
+<!--            <groupId>info.cukes</groupId> -->
+<!--            <artifactId>cucumber-picocontainer</artifactId> -->
+<!--            <version>1.2.5</version> -->
+<!--            <scope>test</scope> -->
+<!--         </dependency> -->
 
 	</dependencies>
 
@@ -82,8 +82,7 @@
 				<version>3.0.0-M3</version>
 				<configuration>
 				<includes>
-<!-- 				<include>**/*Hooks.java</include> -->
-						<include>**/*TestRunner.java</include>
+                <include>**/*TestRunner.java</include>
 				</includes>
                         <!-- <systemPropertyVariables> <xmlFiles>>${xmlFiles}</xmlFiles> <url>${url}</url> 
 						<executionBrowser>${browser}</executionBrowser> </systemPropertyVariables> 

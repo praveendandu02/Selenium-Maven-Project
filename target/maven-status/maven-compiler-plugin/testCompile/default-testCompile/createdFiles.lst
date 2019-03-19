@@ -1,3 +1,4 @@
+com/wordpress/utility/TestContext.class
 com/wordpress/pages/BaseClass.class
 com/wordpress/utility/Helper.class
 com/wordpress/runner/TestRunner.class

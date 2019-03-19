@@ -10,12 +10,14 @@ import com.wordpress.pages.BaseClass;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
 
-public class Hooks{
+public class Hooks extends BaseClass{
 	
-	/*@Before
+	@Before
 	public void setUpApplication()
 	{
 		Reporter.log("=====Browser session started=====", true);
+		
+		System.out.println("Browser started");
 		
 		driver = new ChromeDriver();
 		
@@ -32,6 +34,6 @@ public class Hooks{
 		driver.quit();
 		
 		Reporter.log("=====Browser session end=====", true);
-	}*/
+	}
 
 }
